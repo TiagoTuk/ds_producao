@@ -89,3 +89,7 @@ Com a primeira versão do modelo implementada, a próxima iteração do processo
     Deploy em Produção: Avaliar plataformas alternativas para hospedar a API, garantindo escalabilidade e facilidade de manutenção.
     
     Monitoramento do Modelo: Implementar métricas para acompanhar a performance do modelo ao longo do tempo e detectar necessidade de re-treinamento.
+
+## 📌 Conclusão
+
+Esse projeto demonstra como o uso de Machine Learning pode otimizar a tomada de decisões empresariais, permitindo que a Rossmann priorize as reformas das lojas de forma mais estratégica e, consequentemente, melhore sua eficiência operacional.
