@@ -79,7 +79,11 @@ As etapas seguidas foram:
 Com a primeira versão do modelo implementada, a próxima iteração do processo CRISP-DM pode trazer novas melhorias e insights:
 
     Identificação de Novas Hipóteses: Explorar fatores externos que possam impactar as vendas, como clima, eventos sazonais e campanhas de marketing.
+    
     Engenharia de Variáveis: Criar novas features baseadas em dados históricos e interações entre variáveis.
+    
     Melhoria do Modelo: Testar novos algoritmos e técnicas de otimização de hiperparâmetros para melhorar a precisão das previsões.
+    
     Deploy em Produção: Avaliar plataformas alternativas para hospedar a API, garantindo escalabilidade e facilidade de manutenção.
+    
     Monitoramento do Modelo: Implementar métricas para acompanhar a performance do modelo ao longo do tempo e detectar necessidade de re-treinamento.
