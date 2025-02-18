@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/e92b5dc2-c8f3-48e8-adb3-e23d469661c3)
+
 # 🏬 Rossmann - Previsão de Vendas com Data Science
 
 ## 1. Problema de negócio
